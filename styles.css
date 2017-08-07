@@ -62,4 +62,10 @@ header > a:hover, header > a:active {
   color: black;
 }
 
+#comparison_website {
+  border: 5px solid #798039;
+  padding: 2px;
+  margin: 10px 0 10px;
+}
+
 
